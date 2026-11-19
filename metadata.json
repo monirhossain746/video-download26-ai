@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Video Downloader",
+  "description": "High-speed Android video and media downloader with smart URL analyzer, built-in browser, and Media3 ExoPlayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
